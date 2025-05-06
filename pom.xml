@@ -18,7 +18,7 @@
         <version.jose4j>0.9.6</version.jose4j>
         <version.logback>1.5.18</version.logback>
         <version.junit>4.13.2</version.junit>
-        <version.undertow>2.1.6.Final</version.undertow>
+        <version.undertow>2.2.24.Final</version.undertow>
         <version.json-schema-validator>0.1.21</version.json-schema-validator>
         <version.fastscanner>2.18.1</version.fastscanner>
         
